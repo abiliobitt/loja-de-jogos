@@ -1,0 +1,13 @@
+{
+  "pedidos": [
+    {
+      "pedido_id": 1,
+      "caixas": [
+        {
+          "caixa_id": "Caixa 2",
+          "produtos": ["PS5", "Volante"]
+        }
+      ]
+    }
+  ]
+}
